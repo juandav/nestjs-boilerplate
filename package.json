@@ -46,9 +46,9 @@
     "jest": "24.9.0",
     "prettier": "1.19.1",
     "supertest": "4.0.2",
+    "tsc-watch": "4.0.0",
     "ts-node": "8.5.4",
     "ts-jest": "24.2.0",
-    "tsc-watch": "2.4.0",
     "typescript": "3.7.4"
     "tslint": "5.20.1",
     "tsconfig-paths": "3.9.0",
